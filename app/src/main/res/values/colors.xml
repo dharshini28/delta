@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="Darkgreen">#006400 </color>
+    <color name="White">#ffffff </color>
+    <color name="LimeGreen">#32CD32 </color>
+    <color name="LawnGreen">#7CFC00 </color>
+    <color name="Darkred">#8B0000 </color>
+    <color name="Crimson">#DC143C</color>
+    <color name="Lightcoral">#F08080</color>
+</resources>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">delta</string>
+    <string name="enter_an_age_to_guess">Enter an age to guess</string>
+    <string name="enter_guess">Enter your guess</string>
+    <string name="submit">Submit</string>
+    <string name="guess">Guess</string>
+    <string name="input">input</string>
+    <string name="result">Result</string>
+    <string name="message">message</string>
+    <string name="the_number_of_times_you_won">The number of times you won</string>
+    <string name="wins">wins</string>
+    <string name="the_number_of_times_you_lost">The number of times you lost</string>
+    <string name="loses">loses</string>
+    <string name="refresh">Refresh</string>
+    <string name="scoreboard">ScoreBoard</string>
+    <string name="Back">back</string>
+    <string name="Try_again">Try again</string>
+</resources>
